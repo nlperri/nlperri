@@ -1,6 +1,6 @@
 ### Hi 👋 I'm Natália Perri
 
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Reactjs
 - 📫 How to reach me: lnataliaperri@gmail.com
 - 😄 Pronouns: she/her
 <div align="center"> 
