@@ -2,7 +2,7 @@
  ### Hi 👋 I'm Natália Perri
 
 
-- 🌱 I’m currently learning Reactjs
+- 🌱 I’m currently learning Node.js
 - 📫 How to reach me: lnataliaperri@gmail.com
 - 😄 Pronouns: she/her<br>
 
