@@ -2,7 +2,7 @@
  ### Hi 👋 I'm Natália Perri
 
 
-- 🌱 I’m currently learning Cloud and DevOps services & DDD
+- 🌱 I’m currently Java - Spring Boot
 - 📫 How to reach me: lnataliaperri@gmail.com
 - 😄 Pronouns: she/her<br>
 
