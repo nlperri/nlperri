@@ -2,7 +2,7 @@
  ### Hi 👋 I'm Natália Perri
 
 
-- 🌱 I’m currently learning: Spring Boot / Nest / Clean Architecture
+- 🌱 I’m currently learning: Kubernetes 
 - 📫 How to reach me: lnataliaperri@gmail.com
 - 😄 Pronouns: she/her<br>
 
